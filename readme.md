@@ -1,6 +1,6 @@
-#Adam Abbas Shell Project#
+# Adam Abbas Shell Project#
 
-###Rolling list of features this shell implements!###
+### Rolling list of features this shell implements!
 
 * Basic commands (ls, echo etc)!
 * CD into a directory in the program! (Will print the location)
@@ -10,16 +10,16 @@
 * Appending upon redirecting out works! Use >> to append to the second file
 
 
-###Attempted implementations###
+### Attempted implementations###
 * Attempted to read arguments in command *space* ; *space* command format. As of right now, only works without spaces.
 
-###Known bugs###
+### Known bugs
 * FIXED (was a return type issue) ~~Commands performed after a pipe run twice? The order also looks like it gets messed up~~
 
-###Files:###
+### Files:
 Just the one `shell.c`
 
-###HEADERS!:###
+### HEADERS!:
 
 ```=== int find_char() === ```
 
