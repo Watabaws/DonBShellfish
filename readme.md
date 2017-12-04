@@ -1,4 +1,4 @@
-# Adam Abbas Shell Project#
+# Adam Abbas Shell Project
 
 ### Rolling list of features this shell implements!
 
@@ -10,7 +10,7 @@
 * Appending upon redirecting out works! Use >> to append to the second file
 
 
-### Attempted implementations###
+### Attempted implementations
 * Attempted to read arguments in command *space* ; *space* command format. As of right now, only works without spaces.
 
 ### Known bugs
